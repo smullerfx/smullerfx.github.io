@@ -1,0 +1,50 @@
+
+body{
+
+background-image: linear-gradient(to right top, #dbdba2, #b4b378, #8f8c51, #6b672b, #484403);
+
+} 
+
+.headline{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    color: navy;
+    text-shadow: 3px 3px 6px black;
+    line-height: 2rem;
+    font-family: Comic Sans MS;
+}
+
+.opener {
+    text-align: center;
+    color: #1a18bb7e;
+}
+
+.how{
+
+    text-align: center;
+    color: rgb(65, 46, 177);
+    text-shadow: 3px 3px 6px #dddcf07e;
+    line-height: 3rem;
+    font-family: Comic Sans Ms;
+
+}
+
+
+.work {
+   margin: auto;
+   border-spacing: 20px;
+
+}
+
+.contact{
+
+    text-align: center;
+    color: rgb(65, 46, 177);
+    text-shadow: 3px 3px 6px #dddcf07e;
+    line-height: 3rem;
+    font-family: Comic Sans Ms;
+
+}
